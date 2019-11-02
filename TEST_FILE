@@ -1,1 +1,167 @@
-
+ClassID	Descr
+ACAG  	AGITATOR PADDLE               
+ACBG  	Bungs                         
+ACCS  	CAP SEAL                      
+ACDG  	LID GASKET                    
+ACFL  	Flanges                       
+ACGS  	Bung Gaskets                  
+ACLN  	LINERS                        
+ACNB  	NUTS & BOLTS                  
+ASSCLN	Asset Tank Cleaning           
+ASSREN	Asset Tank Rental             
+ASSSAK	Asset Tank Sale               
+ASSSAL	Asset Tank Sale               
+BOTT  	New Plastic Bottles           
+BOTT27	New 275 Gallon Bottles        
+BOTT33	New 330 Gallon Bottles        
+CAGE  	New Cage                      
+CDD   	"Coll., Decontam., Disposal    "
+CDDFIB	"Collection, Disp, Decon Fibers"
+CDDIBC	"Coll., Decon, Disp - IBCs     "
+CDDPOL	"COLL, DECON, DISPOSE-POLYS    "
+CDDRES	Collection of Residue         
+CDDSML	"COLL, DECON, DISPOSE-SM SIZES "
+CDDSTL	"COLL, DECON, DISPOSE-STEEL    "
+CEMENT	Contact Cement                
+CHEM  	Chemicals                     
+COILST	Coil Steel                    
+COLORC	Color Concentrate - Plastics  
+CORRBX	Corrugated Boxes              
+DEPOST	Pallet Deposit                
+DEST  	Destruction Mixed Commodity   
+DISKST	Disk Steel                    
+DPART 	Drum Parts & Accessories      
+ENVF  	Enviro Surch-Fibre            
+ENVI  	Enviro Surch-IBC              
+ENVP  	Enviro Surch-Poly             
+ENVS  	Enviro Surch - Steel          
+FNBC  	Bulk Container                
+FNCN  	New Can                       
+FNCT  	New CT Steel Drum             
+FNCTLI	New Lined Closed Top Drums    
+FNCTUL	New Unlined Closed Top Drums  
+FNFB  	New Fiber Drum                
+FNGC  	New Glass Containers          
+FNHD  	New Heads                     
+FNLD  	New Lid                       
+FNOT  	New OT Steel Drum             
+FNOTLI	New Lined Open Top Drum       
+FNOTUL	New Unlined Open Top Drum     
+FNPB  	New Plastic Bottle            
+FNPC  	New Poly CT Drum              
+FNPL  	New Small Size Container      
+FNPO  	New Poly OT Drum              
+FNPT  	New Pallet                    
+FNRG  	New Ring                      
+FNRGHB	New Rings-Heavy Bolt          
+FNRGLB	New Rings-Light Bolt          
+FNRGLL	New Rings-Lever Lock          
+FNSP  	New Small Size Container-Stl  
+FNTB  	New IBC                       
+FNTB27	Fin New 275 IBC               
+FNTB33	Fin New 330 IBC               
+FRCT  	R&R CT Steel Drum             
+FRGHT 	Freight Charge                
+FRLD  	R&R Lid                       
+FROT  	R&R OT Steel Drum             
+FRPC  	R&R Poly CT Drum              
+FRPL  	R &  R Pails                  
+FRPO  	R&R Poly OT Drum              
+FRRB  	R&R Rebuilt CT Steel Drum     
+FRRG  	R&R Ring                      
+FRTB  	R&R IBC                       
+FRTB27	R &  R 275 IBC                
+FRTB33	R & R 330 IBC                 
+FRTDRM	Freight Incoming - Raw Drum   
+FSCT  	CT Steel Drum - Sold          
+FSFB  	Fiber Drum - Sold             
+FSLD  	Recon Lid - Sold              
+FSOT  	OT Steel Drum - Sold          
+FSPC  	Poly CT Drum - Sold           
+FSPL  	Recon Pail                    
+FSPO  	Poly OT Drum - Sold           
+FSPT  	Recon/ Brokered Pallet        
+FSRB  	Rebuilt CT Steel Drum - Sold  
+FSRE  	IBC - Rebottle                
+FSRG  	Recon Ring - Sold             
+FSTB  	IBC - Sold                    
+FSTB27	Fin Recon Sold 275 IBC        
+FSTB33	Fin Recon Sold 330 IBC        
+FSTR27	IBC -Rebottle 275             
+FSTR33	IBC - Rebottle 330 Gall       
+FUEL  	Fuel Surcharge                
+FUELUT	Fuel -Utilities               
+FUELVE	Fuel - Vehicles               
+IBCSHE	IBC Sheet                     
+IPART 	IBC Parts & Accessories       
+LABOR 	Misc Labor Reimb              
+LABRDT	Misc Labor Double Time        
+LIBC  	Leased IBC                    
+LINING	Lining                        
+MISC  	Miscellaneous                 
+OTHER 	Other Materials               
+PAINT 	Paint                         
+PAPE  	Paper Sales                   
+PCDM  	Post Consumer Resin Drums MFG 
+PCRD  	Post Consumer Resin Drums     
+PELL  	Pellet Sales                  
+PROC  	Outside Processing            
+RAWD  	Raw Drum                      
+RAWMP 	Raw Municipal Plastics        
+RAWPL 	Raw Plastics                  
+RICT  	Raw Customer Steel CT Drum    
+RIFB  	Raw Customer Fiber            
+RILD  	Raw Customer Lid              
+RIOT  	Raw Customer Steel OT Drum    
+RIPC  	Raw Customer Poly CT Drum     
+RIPO  	Raw Customer Poly OT Drum     
+RIRG  	Raw Customer Ring             
+RITB  	Raw Customer IBC              
+RITB27	Raw Customer 275 IBC          
+RITB33	Raw Customer 330 IBC          
+RPART 	Ring Parts & Components       
+RPBG  	Raw Bungs                     
+RPBT  	Raw IBC Bottle                
+RPCG  	Raw IBC Cage                  
+RPCT  	Raw Steel CT Drum             
+RPFB  	Raw Fibre Drum                
+RPLD  	Raw Lid                       
+RPOT  	Raw Steel OT Drum             
+RPPC  	Raw Poly CT Drum              
+RPPO  	Raw Poly OT Drum              
+RPPT  	Raw Pallets/Wood Bins         
+RPRG  	Raw Ring                      
+RPTB  	Raw IBC                       
+RPTB27	Raw 275 IBC                   
+RPTB33	Raw 330 IBC                   
+RSBG  	Raw Bung - Sold               
+RSCG  	Raw Sold IBC Cage             
+RSCT  	Raw Sold Steel CT Drum        
+RSFB  	Raw Sold Fibre Drum           
+RSLD  	Raw Lid - Sold                
+RSOT  	Raw Sold Steel OT Drum        
+RSPC  	Raw Sold Poly CT Drum         
+RSPL  	Raw Sold Small Sizes          
+RSPO  	Raw Sold Poly OT Drum         
+RSRG  	Raw Ring - Sold               
+RSTB  	Raw Sold IBC                  
+SAFETY	Safety Supplies               
+SCRAP 	Scrap - Steel                 
+SCRAPA	Scrap - Aluminum              
+SCRAPG	Scrap - Glass                 
+SCRAPP	Scrap - Plastics              
+SHEL  	Knockdown Shells              
+SHOT  	Steel Shot                    
+SORTPL	Sorted Plastic                
+STEE  	Sheet Steel                   
+STSC  	Steel Surcharge               
+SUPP  	Supplies - Expensed           
+SUPSTK	Packaging - Stock             
+SURC  	Other Sales Surcharge         
+TOLL  	Toll Sales                    
+TOOL  	Small Tools                   
+TRFE  	Trailer Rental Fee            
+UNRG  	Unwashed Regrind              
+VALV  	Valves                        
+WASH  	Tanker Washing                
+WREG  	Washed Regrind                
